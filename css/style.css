@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    font-size: 1.3em;
+}
+p{
+    font-size: 20px;
+    line-height: 2;
+}
+h1{
+    margin: 0;
+    font-family:'Brush Script MT', cursive,Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+    color: rgb(15, 105, 52);
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.h3{
+    padding-bottom: 10px;
+}
+.box1{
+    background-color:#A5C9CA ;
+    margin: 0;
+    padding:20px;
+    height: 580px;
+    width: 100%;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: #fbfbfb;
+    margin: 100px 0;
+}
+.bottomcloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.pp{
+    height: 10%;
+    width: 20%;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.skill1{
+    height: 10%;
+    width: 20%;
+    float: left;
+    padding-right: 30px;
+}
+.skill2{
+    height: 10%;
+    width: 20%;
+    float: right;
+    padding-left: 30px;
+}
+
+
+
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-top-width:9px;
+    width: 40%;
+    border-color: rgb(65, 174, 123);
+    margin: 100px auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.button{
+    border-radius: 5px;
+    font-size: 17px;
+    border: none;
+    color: rgb(18, 19, 18);
+    background-color: #53d587;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    margin: 40px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    margin: 10px 20px;
+    font-weight: 5px;
+}
+.bottom-container{
+    background-color:#A5C9CA ;
+    padding: 50px 0 25px;
+}
+a:hover{
+    color:red;
+}
+.copyright{
+    font-size: .75rem;
+    color: #fbfbfb;
+    padding: 20px 0;
+}
